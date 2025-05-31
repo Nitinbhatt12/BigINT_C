@@ -49,12 +49,3 @@ Enter second number: 987654321
 Multiplication Result: 121932631112635269
 ```
 
-## Documentation
-
-- [Algorithm Details](docs/ALGORITHM.md)
-- [DP Analysis](docs/DP_ANALYSIS.md)
-- [Performance Benchmarks](docs/BENCHMARKS.md)
-
-## License
-
-MIT License - See [LICENSE](LICENSE) for details.
